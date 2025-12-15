@@ -47,7 +47,9 @@ source .venv/bin/activate
 
 # Установите зависимости
 pip install -r requirements.txt
+```
 ### 3. Настройка
+```
 Создайте файл .env в корне проекта:
 env
 TELEGRAM_BOT_TOKEN=ваш_токен_бота
@@ -271,4 +273,5 @@ Selenium - Автоматизация браузера для парсинга
 Создайте Issue
 Напишите в Telegram: @eubog
 ##⭐ Если проект был полезен, поставьте звезду на GitHub!
+
 
