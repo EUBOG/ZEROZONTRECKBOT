@@ -49,7 +49,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ### 3. Настройка
 Создайте файл .env в корне проекта:
-```env
+env
 TELEGRAM_BOT_TOKEN=ваш_токен_бота
 DATABASE_URL=sqlite:///data/ozon_tracker.db
 CHECK_INTERVAL=3600  # Интервал проверки в секундах (по умолчанию 1 час)
@@ -271,3 +271,4 @@ Selenium - Автоматизация браузера для парсинга
 Создайте Issue
 Напишите в Telegram: @eubog
 ##⭐ Если проект был полезен, поставьте звезду на GitHub!
+
